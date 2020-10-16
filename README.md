@@ -1,2 +1,1 @@
-# aureliojanio.github.io
-Janio Albuquerque
+# janioalbuquerque.github.io
